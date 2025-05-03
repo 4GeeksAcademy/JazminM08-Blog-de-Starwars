@@ -53,7 +53,7 @@ const DetailVehiculo = () => {
       </div>
 
       <hr className="my-4" />
-
+      
       <div className="row text-center">
         <div className="col">
           <h6>Name</h6>
